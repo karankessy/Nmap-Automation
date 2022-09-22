@@ -47,5 +47,5 @@ elif resp == '3':
     
     
 elif resp >= '4':
-    print("Yu Drunk Broo???")
+    print("Somethings' wrong!!!")
     
