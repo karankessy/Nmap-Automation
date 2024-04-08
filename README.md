@@ -1,4 +1,4 @@
-### Nmap Automation Tool
+# Nmap Automation Tool
 
 ## Introduction
 
